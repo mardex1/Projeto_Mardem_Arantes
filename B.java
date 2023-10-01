@@ -19,10 +19,10 @@ public class B {
   }
 
   public void MB1() {
-    System.out.Println("MB1");
+    System.out.println("MB1");
   }
 
   public void MB2() {
-    System.out.Println("MB2");
+    System.out.println("MB2");
   }
 }
